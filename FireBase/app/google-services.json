@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186710470490",
+    "firebase_url": "https://fir-11bab.firebaseio.com",
+    "project_id": "fir-11bab",
+    "storage_bucket": "fir-11bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186710470490:android:d8d0f50158bd99e7",
+        "android_client_info": {
+          "package_name": "com.internshala.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186710470490-f5sqao1h1jci8nb68rvchkv5p0dq7k90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVmyfJO4-Y4n3P9CS7pAvS5yfef7nUak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
